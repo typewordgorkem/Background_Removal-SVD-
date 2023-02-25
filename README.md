@@ -35,6 +35,35 @@ git clone https://github.com/typewordgorkem/Background_Removal-SVD-
 ```
 2. Just compile on Jupyter Notebook or supported IDE's.
 
+# Resources:
+
+- The image dataset used in this project is the Stanford Background Dataset, which was collected by
+the DAGS Lab at Stanford University. The dataset
+consists of a variety of indoor and outdoor scenes,
+captured under different lighting conditions and
+with various background complexities. It is available on the Kaggle platform and can be accessed
+at https://www.kaggle.com/datasets/
+balraj98/stanford-background-dataset.
+
+[1] T. Bouwmans. A review of background subtraction algorithms evaluated with synthetic and real videos. Pattern
+Recognition Letters, 35(8):1492–1506, 2014. 1, 2, 3, 4
+[2] A. Elgammal, D. Harwood, and L. S. Davis. Background
+and foreground modeling using non-parametric kernel density estimation for visual surveillance. Computer Vision and
+Image Understanding, 82(3):283–296, 2000. 5
+[3] fastai. Numerical linear algebra, 2021. 1
+[4] A. D. Godbehere, A. Matsukawa, and K. Goldberg. Visual tracking of human visitors under variable-lighting conditions for a responsive audio art installation. ACM Transactions on Interactive Intelligent Systems (TiiS), 2(1):4, 2012.
+2, 4
+[5] J. Shim and B. Han. Background modeling using low-rank
+matrix approximation. Computer Science and Information
+Systems (ComSIS), 3(2):473–488, 2015. 3, 4
+[6] S. Wang, W. Ouyang, and X. Wang. A survey on background subtraction algorithms. IEEE Transactions on Circuits and Systems for Video Technology, 28(12):3291–3307,
+2018. 5
+[7] Y. Zhang, Q. Tian, and M. Gong. Real-time background
+subtraction using deep learning. Pattern Recognition Letters, 43(1):131–137, 2016. 4
+[8] Z. Zivkovic and F. van der Heijden. Efficient adaptive density estimation per image pixel for the task of background
+subtraction. Pattern recognition letters, 25(11):1451–1459,
+2004. 5
+
 
 
 
